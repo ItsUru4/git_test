@@ -1,0 +1,4 @@
+Hello, World!
+This is my second edit to this file. 
+I am trying to get used to git with this edit.
+Thank you.
